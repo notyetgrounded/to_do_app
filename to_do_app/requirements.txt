@@ -1,7 +1,6 @@
 rest_framework
 django
 asyncio
-distutils_hack
 asgiref
 asgiref-3.5.0.dist-info
 asgiref-3.5.0.dist-info
