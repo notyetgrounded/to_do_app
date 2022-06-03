@@ -7,7 +7,6 @@ asgiref-3.5.0.dist-info
 django
 Django-4.0.3.dist-info
 djangorestframework-3.13.1.dist-info
-pip
 pep8-1.7.1.dist-info
 pkg_resources
 tzdata
